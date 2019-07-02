@@ -25,6 +25,9 @@
     "city": {
       "$ref": "components/address.json#/definitions/city"
     },
+    "province": {
+      "$ref": "components/address.json#/definitions/province"
+    },
     "country": {
       "$ref": "components/address.json#/definitions/country"
     },

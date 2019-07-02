@@ -25,6 +25,9 @@
     "city": {
       "$ref": "http://maasglobal.com/core/components/address.json#/definitions/city"
     },
+    "province": {
+      "$ref": "http://maasglobal.com/core/components/address.json#/definitions/province"
+    },
     "country": {
       "$ref": "http://maasglobal.com/core/components/address.json#/definitions/country"
     },
